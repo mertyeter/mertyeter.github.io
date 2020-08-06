@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>other on Mert Yeter&#39;s Blog</title>
+    <link>mertyeter.github.io/tags/other/</link>
+    <description>Recent content in other on Mert Yeter&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="mertyeter.github.io/tags/other/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello, world!</title>
+      <link>mertyeter.github.io/post/markdown-syntax/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>mertyeter.github.io/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;Welcome to my blog, this is a test page. Technical posts are coming soon&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
