@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mert Yeter&#39;s Blog</title>
+    <title>Tags on Mert Yeter</title>
     <link>https://mertyeter.dev/tags/</link>
-    <description>Recent content in Tags on Mert Yeter&#39;s Blog</description>
+    <description>Recent content in Tags on Mert Yeter</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
+    <language>en</language>
     <lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mertyeter.dev/tags/index.xml" rel="self" type="application/rss+xml" />
